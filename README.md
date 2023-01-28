@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Thanasak1412
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript, ReactJS, NodeJS and Bootstrap
-- 📫 How to reach me Facebook: https://www.facebook.com/Thanasak1412/ and Email : Thanasaksrisaeng@gmail.com
+- 👋 Hi, I’m Thanasak Srisaeng
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning a new programming language and new stacks to develop the software
+- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/thanasak-s-676224232/ and Email : Thanasaksrisaeng@gmail.com
 
 <!---
 Thanasak1412/Thanasak1412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
